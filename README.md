@@ -1,6 +1,7 @@
 [![License MIT][MIT badge]][MIT]
 [![License ASL 2.0][ASL 2.0 badge]][ASL 2.0]
 [![Maven Central][Maven Central badge]][Maven Central]
+[![][Paypal Donate Img]][Paypal Donate Link]
 
 The **current** version of this project is licensed under both [MIT] and [ASL 2.0].
 
@@ -16,5 +17,8 @@ The tutorial related to this project can be found on [Codeaches Website]
 
 [Maven Central badge]: https://img.shields.io/maven-central/v/com.codeaches/ossrhexample/1.0.0.svg?colorB=green&style=flat 
 [Maven Central]: https://mvnrepository.com/artifact/com.codeaches/ossrhexample/1.0.0
+
+[Paypal Donate Img]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif
+[Paypal Donate Link]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FLER29DWAYJ58&currency_code=USD&source=url
 
 [Codeaches Website]: https://codeaches.com/blog/deploy-jar-to-ossrh-apache-maven
